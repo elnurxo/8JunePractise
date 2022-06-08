@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.exe
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.deps.json
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.runtimeconfig.json
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.dll
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.pdb
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.dll
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.pdb
+C:\Users\LENOVO\Desktop\P227\8JuneTest\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.genruntimeconfig.cache
